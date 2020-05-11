@@ -1,4 +1,4 @@
-alert("hello rudy.")
+alert("Hello Rudy.")
 
 //simple animation/functions//
 function scrollAppear(){
@@ -105,7 +105,7 @@ function updateMistakes() {
 function reset() {
   mistakes = 0;
   guessed = [];
-  document.getElementById('hangmanPic').src = '';
+  
 
   randomWord();
   guessedWord();

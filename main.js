@@ -12,7 +12,7 @@ function scrollAppear(){
 window.addEventListener('scroll',scrollAppear)
 //simple animation//
 
-//ajax//
+//ajax/function/
 
 $(document).ready(function(){
     $("#ajaxbtn").click(function(){

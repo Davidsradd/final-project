@@ -19,11 +19,34 @@ margin: 0 0 20px 10px
 }
 .kobehead{
     text-align:center;
-    margin: 0px 230px;
+    margin: 0px 225px;
 }
 
 
 
 body{
-    background-color: rgb(245, 242, 255);
+   background-image: url(images/wood.jpg);
+   background-size: 100%;
+}
+
+
+.pq{
+    color: rgb(0, 0, 0);
+    padding: 2px 6px 4px 6px;
+    background-color: #f5b759;
+    border:#c27e00 5px solid;
+}
+
+.h1p{
+    color: rgb(0, 0, 0);
+    padding: 2px 6px 4px 6px;
+    background-color: #f5b759;
+    border:#c27e00 10px solid;
+}
+
+.btn{
+    color: rgb(0, 0, 0);
+    padding: 2px 6px 4px 6px;
+    background-color: #f5b759;
+    border:#c27e00 5px solid;
 }
